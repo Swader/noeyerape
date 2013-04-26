@@ -19,13 +19,18 @@
 
 ###
 
-### PBS. Violation: https://plus.google.com/104771776404197897488/posts/NB4TrGWxQcs
+### PBS. Violation: http://goo.gl/rk0ou
 127.0.0.1	video.pbs.org
 127.0.0.1	www.pbs.org
 127.0.0.1	pbs.org
 
-### TheAustralian. Violation: https://plus.google.com/104771776404197897488/posts/BA5CyhqUPYL
+### TheAustralian. Violation: http://goo.gl/bPpRR
 127.0.0.1	theaustralian.com.au
 127.0.0.1	www.theaustralian.com.au
 
+### KissMetrics. Violation: http://goo.gl/COZ4n
+127.0.0.1	kissmetrics.com
+
+### news.discovery.com. Violation: http://goo.gl/vjJYo
+127.0.0.1	news.discovery.com
 

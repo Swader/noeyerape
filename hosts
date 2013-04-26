@@ -1,11 +1,17 @@
-#The following domains have been blocked for breaking the cardinal rule of advertising - no overlay popups. All others will be in the other "adblockrule.txt" file and only have their ads blocked as opposed to these which are completely blocked from ever opening again on my machine.
+# The following domains have been blocked for breaking the 
+# cardinal rule of advertising - no overlay popups. All others 
+# will be in the other "adblockrule.txt" file and only have 
+# their ads blocked as opposed to these which are completely 
+# blocked from ever opening again on my machine.
 
-#You should already have the following line in your hosts file. If not, add it. The hosts file is in the following locations:
-####
-# On Windows: http://helpdeskgeek.com/windows-7/windows-7-hosts-file/
-# On OS X / Linux: /etc/hosts
-####
+# You should already have the following line in your hosts file:
 # 127.0.0.1 	localhost
+
+# If not, add it. The hosts file is in the following locations:
+########################################################################
+# On Windows: http://helpdeskgeek.com/windows-7/windows-7-hosts-file/  #
+# On OS X / Linux: /etc/hosts                                          #
+########################################################################
 
 ###
 

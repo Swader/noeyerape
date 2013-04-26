@@ -1,0 +1,9 @@
+#This file contains entries as taken from the hosts file, but edited so they can be imported into the blocklist extension directly: http://goo.gl/MmMAl
+
+#Just paste these contents into the import box:
+
+kissmetrics.com
+news.discovery.com
+pbs.org
+theaustralian.com.au
+video.pbs.org

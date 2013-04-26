@@ -4,6 +4,10 @@
 # their ads blocked as opposed to these which are completely 
 # blocked from ever opening again on my machine.
 
+# Note that the domain lines below can also be pasted into Google's
+# Personal Blocklist extension which makes sure they don't appear in
+# search results either: http://goo.gl/MmMAl
+
 # You should already have the following line in your hosts file:
 # 127.0.0.1 	localhost
 
